@@ -1,0 +1,9 @@
+{
+  "guideDailyRate": 100,
+  "bigVanDriverDailyRate": 100,
+  "miniVanDriverDailyRate": 75,
+  "defaultCompanyBigVanRate": 700,
+  "defaultCompanyMiniVanRate": 500,
+  "quadUnitRate": 150,
+  "camelUnitRate": 100
+}
